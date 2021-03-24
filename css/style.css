@@ -2,7 +2,10 @@
 body {
      
     background-image: url(/Users/jenslindstrom/Desktop/photo-1616442481650-3d4a65148539.jpeg);
-   
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .page-wraper{
@@ -19,5 +22,7 @@ body {
     background: whitesmoke;
     margin-top: 400px;
     border-radius: 10px;
+    display: block;
+
     
 }
