@@ -16,13 +16,10 @@ body {
 
 .form-holder {
 
-    width: max-content;
     padding: 20px;
-    margin-top: 200px;
     background: whitesmoke;
     margin-top: 400px;
     border-radius: 10px;
-    display: block;
 
     
 }
